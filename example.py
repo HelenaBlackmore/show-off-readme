@@ -1,6 +1,8 @@
 print("hello World!")
 
-print("change")
 
-for i in range(123):
-    print("x")
+for i in range(7):
+    print("change")
+
+
+
